@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 28" width="49" height="28">
+	<defs>
+		<image width="49" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAdCAMAAAA0LHRjAAAAAXNSR0IB2cksfwAAAN5QTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8plxigAAAEp0Uk5TACBQ9tHc7xCvcLzwE1/PDp+TAt9ANYJgtSQwV6SA10YPecb5HGi/mwvoPoq+Lf9hrOADT4MlcaUU8UeUj8c2abbpDFiM2C96t+pD2jVpAAABEElEQVR4nI2T6VLCQBCEO1GToBKjG40iAUXEA42C9wHihfD+L6QikN1lZrB/ZCc99dXWds0AphxZmJW7sMhryfMJJCgQ5ljLZM9ZWeWAYrhG+tE6A2yomG74apNubAXc5ck2ae94JY5AuEu55ZQFEFcIs6r2eALB/qxXE1L/efxB3bYOGxIApEeWcXzCJDu9RJ2aRpNNdiL3zPg997QZzAxN7fBCJy7ZZHOi1Grn9hWfbE4gus7rMOEAnfCzm0l5KySrEUjvxsX9g5CsTkA9/p1PzzxgEm5ndHTJVSUJNF5+vz1hZm3CeX0D3hW9qiSB6AP4dCXAJvys/zVnoCwCyWDIrypJQEnJkkQsJTsi/qFvLlgZvv1ri+8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="футер">
+		<g id="контакты">
+			<g id="Ховер">
+				<use id="триугольник" href="#img1" transform="matrix(1,0,0,1,0,-1)"/>
+			</g>
+		</g>
+	</g>
+</svg>

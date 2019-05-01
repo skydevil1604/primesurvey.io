@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542 13" width="542" height="13">
+	<defs>
+		<image width="542" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAh4AAAANAQMAAADc0PUVAAAAAXNSR0IB2cksfwAAAAZQTFRF////AAAAVcLTfgAAAAJ0Uk5T/wDltzBKAAAAQ0lEQVR4nGOo////3////38D8Xsg3k8G9w/DqCG0MuQfkPEXKP4dKH4fKF5PMpdKhlTf+77v+973QIpsoma4GUINAADIXOHdETEzUwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Хедер">
+		<use id="Прямоугольник 8 копия 23" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

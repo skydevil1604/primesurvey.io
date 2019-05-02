@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1bf95ba-c1c9-4bd4-a1dd-f8b9da343fee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/www.primeservice.com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/css/fullpage.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/first-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/fosfa_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/gafta-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/iso-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/ruler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/ruler.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/sn/facebook-letter-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/sn/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/sn/phone-receiver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/sn/triangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d2f4ac8c/img/sn/whatsapp-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/images/content/gallery/23/first-main-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/images/content/gallery/24/second-main-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d2f4ac8c/css/fullpage.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d2f4ac8c/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/d2f4ac8c/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d2f4ac8c/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/d2f4ac8c/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,21 +18,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.18916257">
+    <splitter split-orientation="horizontal" split-proportion="0.4218289">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="5" column="91" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="91" />
+                <state relative-caret-position="557">
+                  <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
@@ -56,8 +39,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3335">
-                  <caret line="145" column="32" selection-start-line="145" selection-start-column="32" selection-end-line="145" selection-end-column="32" />
+                <state relative-caret-position="205">
+                  <caret line="118" column="31" lean-forward="true" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -69,8 +52,22 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="131">
-                  <caret line="745" column="14" lean-forward="true" selection-start-line="745" selection-start-column="14" selection-end-line="745" selection-end-column="14" />
+                <state relative-caret-position="314">
+                  <caret line="850" column="17" lean-forward="true" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#37463#42240#0" />
+                    <element signature="e#42241#43028#0" />
+                    <element signature="e#43029#43967#0" />
+                    <element signature="e#43968#45340#0" />
+                    <element signature="e#45341#45457#0" />
+                    <element signature="e#45458#45588#0" />
+                    <element signature="e#45589#45698#0" />
+                    <element signature="e#45699#48892#0" />
+                    <element signature="e#48893#49415#0" />
+                    <element signature="e#49416#50301#0" />
+                    <element signature="e#50735#61435#0" />
+                    <element signature="e#61436#61660#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -91,7 +88,6 @@
       <find>vacancies</find>
       <find>newIma</find>
       <find>copyr</find>
-      <find>sn</find>
       <find>.mainWrapper .section.main .sectionTitle</find>
       <find>.mainWrapper .section.main .sectionTitle div</find>
       <find>.mainWrapper .section .sectionTitle</find>
@@ -99,12 +95,19 @@
       <find>sectionTitle</find>
       <find>ship</find>
       <find>active</find>
-      <find>.mainWrapper .section.main .mainAnimation img</find>
       <find>numbers</find>
       <find>footer .contact .snWrapper a</find>
       <find>header</find>
       <find>.mainWrapper .section.main .sectionContent</find>
       <find>scale</find>
+      <find>sn</find>
+      <find>what</find>
+      <find>wrapper</find>
+      <find>media</find>
+      <find>transi</find>
+      <find>.mainA</find>
+      <find>.mainWrapper .section.main .mainAnimation img</find>
+      <find>#headerText</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/d2f4ac8c/js/main.js" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/1/6.svg" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/2/2.svg" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/3/6.svg" />
@@ -142,15 +144,17 @@
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/4/4.svg" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/4/5.svg" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/img/home/4/7.svg" />
+        <option value="$PROJECT_DIR$/assets/d2f4ac8c/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/d2f4ac8c/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-444" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-279" />
+    <option name="y" value="220" />
     <option name="width" value="1943" />
-    <option name="height" value="1038" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -183,7 +187,7 @@
               <item name="www.primeservice.com" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="d2f4ac8c" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,17 +209,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\www.primeservice.com\assets\d2f4ac8c\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\www.primeservice.com\assets\d2f4ac8c\img" />
       <recent name="D:\www.primeservice.com\assets\d2f4ac8c\img\sn" />
       <recent name="D:\www.primeservice.com\uploads\images\content\gallery" />
       <recent name="D:\www.primeservice.com\uploads\images\content\24" />
       <recent name="D:\www.primeservice.com\uploads\images\content\23" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www.primeservice.com\assets\d2f4ac8c\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,22 +246,22 @@
       <option name="presentableId" value="Default" />
       <updated>1556654996818</updated>
       <workItem from="1556655002083" duration="36482000" />
-      <workItem from="1556741551070" duration="2653000" />
+      <workItem from="1556741551070" duration="27267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39135000" />
+    <option name="totallyTimeSpent" value="63749000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-223" y="176" width="1554" height="784" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3291474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10613052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.08477237" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49967042" visible="true" weight="0.09090909" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -264,8 +269,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.04524887" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49966952" weight="0.29190752" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003296" side_tool="true" visible="true" weight="0.09090909" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -285,9 +290,6 @@
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/3/6.svg" />
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/4/6.svg" />
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/sn/instagram.svg" />
-    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/sn/triangle.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/1/2.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -301,9 +303,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/1/6.svg" />
-    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/css/fullpage.min.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/scale.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -364,13 +363,6 @@
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/4/7.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3335">
-          <caret line="145" column="32" selection-start-line="145" selection-start-column="32" selection-end-line="145" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/home/1/1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -380,17 +372,27 @@
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/ruler.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/img/sn/triangle.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/css/fullpage.min.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="118" column="31" lean-forward="true" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="91" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="91" />
+        <state relative-caret-position="557">
+          <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -398,8 +400,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/d2f4ac8c/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="745" column="14" lean-forward="true" selection-start-line="745" selection-start-column="14" selection-end-line="745" selection-end-column="14" />
+        <state relative-caret-position="314">
+          <caret line="850" column="17" lean-forward="true" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+          <folding>
+            <element signature="e#37463#42240#0" />
+            <element signature="e#42241#43028#0" />
+            <element signature="e#43029#43967#0" />
+            <element signature="e#43968#45340#0" />
+            <element signature="e#45341#45457#0" />
+            <element signature="e#45458#45588#0" />
+            <element signature="e#45589#45698#0" />
+            <element signature="e#45699#48892#0" />
+            <element signature="e#48893#49415#0" />
+            <element signature="e#49416#50301#0" />
+            <element signature="e#50735#61435#0" />
+            <element signature="e#61436#61660#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -195,6 +195,7 @@ header nav ul li.active a {
   top: -133px;
   left: 120px;
   opacity: 0.8;
+  font-family: 'Montseratt-ExtraLight', sans-serif;
 }
 footer {
   position: fixed;
@@ -2457,6 +2458,19 @@ div.readmore {
   }
 }
 @media all and (max-width: 768px) {
+  .contact {
+    margin-bottom: 50px;
+  }
+  footer .copyright {
+    left: 7%;
+  }
+  .partners-block {
+    right: 0;
+    bottom: 130px;
+  }
+  .mainWrapper .section.main .mainAnimation img {
+    bottom: -25px;
+  }
   .mainWrapper.company .section:nth-child(1),
   .mainWrapper.company .section:nth-child(2),
   .mainWrapper.company .section:nth-child(3),
@@ -2721,7 +2735,7 @@ div.readmore {
     float: none;
   }
   header .logoWrapper img {
-    height: 30px;
+    height: 23px;
   }
   header nav {
     position: fixed;

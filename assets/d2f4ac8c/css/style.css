@@ -108,7 +108,7 @@ header {
   position: absolute;
   background-image: url("../img/ruler.svg");
   right: -78px;
-  bottom: -21px;
+  bottom: -13px;
   max-width: 543px;
   height: 13px;
   width: 543px;
@@ -379,8 +379,8 @@ footer.news .wrapper {
   display: inline-block;
   vertical-align: top;
   width: 100%;
-  max-width: 400px;
-  margin-left: 200px;
+  margin: auto;
+  max-width: 523px;
 }
 .mainWrapper .section .sectionContent a {
   color: #c69c6d;
@@ -666,6 +666,7 @@ footer.news .wrapper {
   transform: translateY(100%);
 }
 .mainWrapper .section.main .bgBlock.pushed .newImage {
+  filter: contrast(175%) brightness(100%) opacity(25%);
   -webkit-transform: translateY(0) !important;
   -moz-transform: translateY(0) !important;
   -ms-transform: translateY(0) !important;
@@ -748,9 +749,15 @@ footer.news .wrapper {
 }
 .mainWrapper .section.main .sectionDesc {
   position: relative;
+  color: white;
 }
 .mainWrapper .section.main .sectionDesc div {
   min-height: 90px;
+}
+
+#about-page {
+  max-width: 425px;
+  color: white;
 }
 .mainWrapper .section.main .sectionDesc .dop {
   -webkit-transform: translateY(-100%);
@@ -819,7 +826,7 @@ footer.news .wrapper {
   bottom: -35px;
 }
 
-.partners {
+.partners-block {
   position: absolute;
   bottom: 33px;
   right: 170px;
@@ -855,9 +862,9 @@ footer.news .wrapper {
 }
 .mainWrapper .section.main .mainAnimation img {
   position: absolute;
-  bottom: -45px;
+  bottom: -6px;
   left: 13px;
-  width: 70px;
+  width: 90px;
   margin: auto;
   z-index: 3;
   opacity: 0;
@@ -2000,6 +2007,9 @@ div.readmore {
     padding-left: 300px;
     max-width: 1800px;
   }
+  .mainWrapper .section {
+    padding-left: 150px;
+  }
   .mainWrapper .section.partners .sectionContent {
     max-width: 400px;
     float: left;
@@ -2104,9 +2114,6 @@ div.readmore {
   .mainWrapper .section.main .wrapper {
     padding: 75px 0 50px;
   }
-  .mainWrapper .section.main .mainAnimation img {
-    bottom: -45px;
-  }
   .mainWrapper .section .sectionContent {
     margin-top: -50px;
   }
@@ -2142,7 +2149,7 @@ div.readmore {
     width: 70px;
   }
   .mainWrapper .section {
-    padding-left: 0;
+    padding-left: 150px;
   }
   .mainWrapper .section .sectionContent {
   }
@@ -2372,7 +2379,7 @@ div.readmore {
     margin: 0 15px;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 768px) {
   .mainWrapper.company .section:nth-child(1),
   .mainWrapper.company .section:nth-child(2),
   .mainWrapper.company .section:nth-child(3),

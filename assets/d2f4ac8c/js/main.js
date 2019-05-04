@@ -3,6 +3,7 @@ $(document).ready(function () {
     if ($(window).width() > 768) {
         $('#fullpage').fullpage({
             menu: "#menu",
+            slidesNavigation: true,
             scrollOverflow: true,
             onLeave: function (oldIndex, newIndex) {
                 $('.lines a').removeClass('active');
@@ -111,23 +112,7 @@ $(document).ready(function () {
     };
 
     //Main headerText animation---------
-    var texts = new Array();
 
-    texts[0]="Cargo & Marine";
-    texts[1]="Quality & Quantity";
-    texts[2]="Hull & Machinery";
-    texts[3]="Hold & Cleaning";
-    texts[4]="Condition & Bunker";
-    texts[5]="Prime & Survey";
-
-    function show(){
-        const el=document.getElementById("headerText");
-        el.innerHTML=texts[Math.floor(Math.random()*texts.length)];
-    }
-
-    setInterval(show,3000);
-
-    show();
     //------------------------------
     $('.mainAnimation img').hover(function () {
         allowAnimate = false;
@@ -155,8 +140,8 @@ $(document).ready(function () {
         $('.numbers .text span.current').removeClass('current');
         $el.find('.text span').first().addClass('current');
 
-        // $('.sectionDesc .dop').remove();
-        // $('.sectionDesc').prepend('<div class="dop">' + $el.find('.text span.current').html() + '</div>');
+        $('.sectionDesc .dop').remove();
+         $('.sectionDesc').prepend('<div class="dop">' + $el.find('.text span.current').html() + '</div>');
         $('.sectionDesc .dop').html($el.find('.text span.current').html());
         setTimeout(function () {
             $('.sectionTitle,.sectionDesc').addClass('pushed');

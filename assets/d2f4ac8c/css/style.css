@@ -487,6 +487,34 @@ footer.news .wrapper {
   width: 64px;
   height: 53px;
 }
+.sectionContent .sectionDesc .flex-blocks {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 950px;
+  color: #ffffff;
+  font-family: 'Montseratt-Regular', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.sectionContent .sectionDesc .flex-blocks .left-block {
+  width: 100%;
+  max-width: 418px;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.sectionContent .sectionDesc .flex-blocks .right-block {
+  width: 100%;
+  max-width: 422px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 20px;
+}
 .mainWrapper .section .sectionDesc p.fourth-paragraph {
   margin: 0;
   color: #ffffff;
@@ -525,8 +553,20 @@ footer.news .wrapper {
   max-width: 300px;
 }
 .mainWrapper .section.partners .sectionContent {
-  max-width: 240px;
+  max-width: 940px;
   margin-right: 30px;
+  padding-left: 60px;
+}
+.mainWrapper .section.partners .sectionContent .sectionDesc .main-flex {
+  display: flex;
+  max-width: 940px;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: 'Montseratt-Regular', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+
 }
 .mainWrapper .section.partners .partnersList {
   margin-top: 15px;
@@ -2195,11 +2235,6 @@ div.readmore {
   .mainWrapper .section .sectionContent {
     margin-top: -50px;
   }
-  header::after {
-    transition: all 1s;
-
-
-  }
   .wrapper {
     max-width: 1210px;
     padding: 0 20px;
@@ -2215,13 +2250,13 @@ div.readmore {
     max-width: 1170px;
   }
   .mainWrapper .section.group .sectionDesc {
-    width: 730px !important;
+    width: 730px;
   }
   .mainWrapper .section.history .sectionDesc {
-    width: 730px !important;
+    width: 730px;
   }
   .mainWrapper .section.privacy .sectionDesc {
-    width: 730px !important;
+    width: 730px;
   }
   .mainWrapper .section.main .mainAnimation img {
     width: 70px;
@@ -2232,7 +2267,7 @@ div.readmore {
   .mainWrapper .section .sectionContent {
   }
   .mainWrapper.company .section .sectionDesc {
-    width: 710px;
+    width: 940px;
   }
   .mainWrapper.management .section .sectionDesc {
     width: 380px;
@@ -2253,7 +2288,6 @@ div.readmore {
     max-width: 250px;
   }
   .mainWrapper .section.partners .sectionDesc {
-    max-width: 250px;
     text-align: left;
   }
   a.readmore {
@@ -2391,10 +2425,6 @@ div.readmore {
 
   .prtnrWrapper a {
     margin-right: 20px;
-  }
-
-  .partners {
-    right: 50px;
   }
 
   body.light .mainWrapper .section .btnWrapper {

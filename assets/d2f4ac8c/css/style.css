@@ -427,6 +427,7 @@ footer.news .wrapper {
 .mainWrapper .section .sectionTitle a {
   text-decoration: none;
   color: #FFFFFF;
+  font-family: 'Montseratt-thin';
 }
 .mainWrapper .section .sectionSubTitle {
   font-family: 'Noto Sans', sans-serif;
@@ -806,6 +807,7 @@ footer.news .wrapper {
   position: relative;
   padding: 0 0 0;
   padding-top: 120px;
+  margin-left: 0;
 }
 .mainWrapper .section.main .sectionDesc {
   font-size: 17px;
@@ -871,6 +873,7 @@ footer.news .wrapper {
 }
 .mainWrapper .section.main .sectionDesc div {
   min-height: 90px;
+  font-family: 'Montseratt-thin';
 }
 
 #about-page {
@@ -980,8 +983,8 @@ footer.news .wrapper {
 }
 .mainWrapper .section.main .mainAnimation img {
   position: absolute;
-  bottom: -14px;
-  left: 13px;
+  bottom: 55px;
+  left: -66px;
   width: 90px;
   margin: auto;
   z-index: 3;
@@ -1535,7 +1538,7 @@ footer.loaded nav {
   transform: translateY(0);
 }
 header.loaded {
-  background-color: #5a95a9;
+  background-color: rgba(255, 255, 255, 0.3);
   padding-top: 20px;
 }
 
@@ -1884,6 +1887,7 @@ div.readmore {
 
   .mainWrapper .section.main .wrapper {
     padding-top: 0;
+    margin-left: 0;
   }
   .mainWrapper .section.main .mainAnimation {
     max-width: 1800px;
@@ -1896,6 +1900,7 @@ div.readmore {
   }
   .mainWrapper .section.main .mainAnimation img {
     bottom: -4px;
+    left: -66px;
   }
   .partners {
     right: 70px;
@@ -2231,7 +2236,8 @@ div.readmore {
     bottom: -13px;
   }
   .mainWrapper .section.main .wrapper {
-    padding: 75px 0 50px;
+    padding: 0 0 50px;
+    margin-left: 0;
   }
   .mainWrapper .section .sectionContent {
     margin-top: -50px;
@@ -2261,6 +2267,7 @@ div.readmore {
   }
   .mainWrapper .section.main .mainAnimation img {
     width: 90px;
+    left: -66px;
   }
   .mainWrapper .section {
     padding-left: 150px;
@@ -2370,6 +2377,7 @@ div.readmore {
 @media all and (max-width: 1279px) {
   .mainWrapper .section.main .wrapper {
     padding-top: 73px;
+    margin-left: 0;
   }
   .wrapper nav::after {
     bottom: -13px;
@@ -2380,7 +2388,8 @@ div.readmore {
     bottom: 0;
   }
   .mainWrapper .section.main .wrapper {
-    padding: 75px 0 50px;
+    padding: 0 0 50px;
+    margin-left: 0;
   }
   .mainWrapper .section.main .bgBlock .newImage {
     background-position: right;
@@ -2421,6 +2430,7 @@ div.readmore {
 @media all and (max-width: 1196px) {
   .mainWrapper .section.main .mainAnimation img {
     bottom: -12px;
+    left: -66px;
   }
   .mainWrapper .section.main .bgBlock .newImage {
     background-position: right;
@@ -2467,6 +2477,7 @@ div.readmore {
   }
   .mainWrapper .section.main .wrapper {
     padding: 75px 0 50px;
+    margin-left: 0;
   }
   .wrapper nav::after {
     bottom: -13px;
@@ -2477,6 +2488,7 @@ div.readmore {
 
   .mainWrapper .section.main .mainAnimation img {
     width: 70px;
+    left: -66px;
   }
   .mainWrapper .section.main .vacanciesBtnWrapper {
     margin-top: 0px;
@@ -2523,6 +2535,7 @@ div.readmore {
   }
   .mainWrapper .section.main .mainAnimation img {
     bottom: -25px;
+    left: -66px;
   }
   .mainWrapper.company .section:nth-child(1),
   .mainWrapper.company .section:nth-child(2),
@@ -2629,6 +2642,7 @@ div.readmore {
   .mainWrapper .section.main .wrapper {
     position: relative;
     padding: 90px 0 50px;
+    margin-left: 0;
   }
   .mainWrapper .section.main .vacanciesBtn {
     margin: 0;
@@ -2672,6 +2686,7 @@ div.readmore {
   }
   .mainWrapper .section.main .wrapper {
     padding-bottom: 0;
+    margin-left: 0;
   }
   .mainWrapper .section .galleryWrapper.small .galleryItem {
     width: 100%;
@@ -2997,7 +3012,7 @@ div.readmore {
 
   }
   .mainWrapper .section.main .mainAnimation img {
-    left: -12px;
+    left: -66px;
     width: 70px;
   }
 }
